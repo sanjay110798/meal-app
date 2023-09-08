@@ -1,1 +1,1 @@
-# meal-app
+# Meal Application
